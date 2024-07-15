@@ -32,10 +32,10 @@
 ## 📝 Обзор
 
 - [📝 Review](#-review)
-- [🧐 About the project ](#-about-the-project-)
-- [🏁 So let's get started ](#-so-let's get started-)
+- [🧐 About the project](#-about-the-project-)
+- [🏁 So let's get started](#-so-let's get started-)
   - [Installation](#installation)
-- [⛏️ Programming languages ](#️-programming languages-)
+- [⛏️ Programming languages](#️-programming languages-)
 - [✍️ Authors ](#️-authors-)
  
 
