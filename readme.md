@@ -32,10 +32,10 @@
 ## 📝 Обзор
 
 - [📝 Review](#-review)
-- [🧐 About the project](#-about-the-project-)
-- [🏁 So let's get started](#-so-let's get started-)
+- [🧐 About the project](#about-the-project)
+- [🏁 So let's get started](#go)
   - [Installation](#installation)
-- [⛏️ Programming languages](#️-programming languages-)
+- [⛏️ Programming languages](#️programming-languages)
 - [✍️ Authors ](#️-authors-)
  
 
@@ -44,7 +44,7 @@
 
 Pterodactyl Crasher — This tool is designed to help you take action against unscrupulous hosting providers. It generates large files and creates a heavy load, which can eventually overload the server. This process is known as Runtime Allocation Call, and it can be used to disrupt the services of the hosting provider. However, it's important to note that you are responsible for any consequences that may result from using this method.
 
-## 🏁 So let's get started <a name = "so let's get started"></a>
+## 🏁 So let's get started <a name = "go"></a>
 
 First, we choose the programming language that you need: we have Java, Python, JavaScript. Choose the appropriate one. See the [Installation](#installation) section to find out how to run it on the hosting. 
 
@@ -52,7 +52,7 @@ First, we choose the programming language that you need: we have Java, Python, J
 
 Fill in the files: If you use JS, there are two files; if Python, there is only one, and so on. Once you have filled in the files, just run them! Remember that the names of the files may be different for the start command and the source file.
 
-## ⛏️ Programming languages <a name = "programming languages"></a>
+## ⛏️ Programming languages <a name = "programming-languages"></a>
 Our script is available in programming languages such as:
 
 - Python
