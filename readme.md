@@ -48,7 +48,7 @@ Pterodactyl Crasher — This tool is designed to help you take action against un
 
 First, we choose the programming language that you need: we have Java, Python, JavaScript. Choose the appropriate one. See the [Installation](#installation) section to find out how to run it on the hosting. 
 
-### Установка
+### Installation
 
 Fill in the files: If you use JS, there are two files; if Python, there is only one, and so on. Once you have filled in the files, just run them! Remember that the names of the files may be different for the start command and the source file.
 
