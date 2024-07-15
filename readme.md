@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">💥 Pterodactyl Crasher</h3>
-<h3 align="center">Проект дорабатывается Икданом.</h3>
+<h3 align="center">The project is being finalized by Ikdan..</h3>
 
 <div align="center">
 
@@ -17,43 +17,43 @@
 ---
 
 <p align="center">
-  <img src="uu5pqYm.png" alt="Пример работы :)" width="50%"/>
+  <img src="uu5pqYm.png" alt="An example of the work)" width="50%"/>
   <br>
-  <em>Пример работы</em>
+  <em>An example of the work.</em>
 </p>
 
 
 ---
 
-<p align="center">💣 Pterodactyl Crasher — это мощный инструмент, предназначенный для борьбы с некачественными серверами Pterodactyl. Эта программа позволяет имитировать ситуации, при которых происходит перераспределение ресурсов (Runtime Allocation Call), что может привести к сбою узла. Разработанный для использования в обучающих и исследовательских целях, Pterodactyl Crasher помогает администраторам и разработчикам понять и устранять потенциальные уязвимости, а также вредить ненадежным хостингам.
+<p align="center">💣 Pterodactyl Crasher — It is a powerful tool designed to help combat low-quality Pterodactyl servers. This program allows users to simulate situations where resources are redistributed (Runtime Allocation Call), which can lead to node failures. Designed for educational and research purposes, Pterodactyl Crasher helps administrators and developers identify and eliminate potential vulnerabilities, as well as prevent unreliable hosts from causing harm.
     <br> 
 </p>
 
 ## 📝 Обзор
 
-- [📝 Обзор](#-обзор)
-- [🧐 О проекте ](#-о-проекте-)
-- [🏁 Итак, начнем ](#-итак-начнем-)
-  - [Установка](#установка)
-- [⛏️ Языки программирования ](#️-языки-программирования-)
-- [✍️ Авторы ](#️-авторы-)
+- [📝 Review](#-review)
+- [🧐 About the project ](#-about-the-project-)
+- [🏁 So let's get started ](#-so-let's get started-)
+  - [Installation](#installation)
+- [⛏️ Programming languages ](#️-programming languages-)
+- [✍️ Authors ](#️-authors-)
  
 
 
-## 🧐 О проекте <a name = "about"></a>
+## 🧐 About the project <a name = "about-the-project"></a>
 
-Pterodactyl Crasher — это инструмент, который поможет вам отомстить недобросовестным провайдерам хостинга. Он создает большие файлы и генерирует нагрузку, что в итоге создает нагрузку на сервер. Этот метод также называется Runtime Allocation Call. Однако за последствия от использования несете ответственность вы..
+Pterodactyl Crasher — This tool is designed to help you take action against unscrupulous hosting providers. It generates large files and creates a heavy load, which can eventually overload the server. This process is known as Runtime Allocation Call, and it can be used to disrupt the services of the hosting provider. However, it's important to note that you are responsible for any consequences that may result from using this method.
 
-## 🏁 Итак, начнем <a name = "итак, начнем"></a>
+## 🏁 So let's get started <a name = "so let's get started"></a>
 
-Сначала выбираем язык программирования, который вам нужен: у нас есть Java, Python, JavaScript. Выберите подходящий. Смотрите раздел [Установку](#установка), чтобы узнать, как запустить его на хостинге. 
+First, we choose the programming language that you need: we have Java, Python, JavaScript. Choose the appropriate one. See the [Installation](#installation) section to find out how to run it on the hosting. 
 
 ### Установка
 
-Заливайте файлы: если используете JS, то два файла; если Python, то один и так далее. Просто запустите файл! Не забудьте, что названия могут быть разными в стартовой команде и исходном файле.
+Fill in the files: If you use JS, there are two files; if Python, there is only one, and so on. Once you have filled in the files, just run them! Remember that the names of the files may be different for the start command and the source file.
 
-## ⛏️ Языки программирования <a name = "yap"></a>
-Наш скрипт доступен на таких языках программирования, как:
+## ⛏️ Programming languages <a name = "programming languages"></a>
+Our script is available in programming languages such as:
 
 - Python
 - JavaScript
@@ -61,14 +61,10 @@ Pterodactyl Crasher — это инструмент, который поможе
 - Rust
 - Lua
 
-## ✍️ Авторы <a name = "авторы"></a>
+## ✍️ Authors <a name = "authors"></a>
 
-- [@xdearboy](https://github.com/xdearboy/) - Разработал скрипты. Javascript + Python.
-- [@noxcel](https://github.com/Nocxell) - Подал мне идею, Java.
-- [@vladdis](https://discord.com/invite/k-protect-community-public-925337010779078676) - Rust + Python скрипт для его запуска.
-- [@pm-kirill](https://github.com/PM-KIRILL) - Бульба Core-Nodes, заценил проект. 
-- [@IkdanYT](https://github.com/ikdanYT) - Доработал jarку, крутой чел епана рот
-
-## ✍️ Секретики <a name = "Секреты"></a>
-
-Aurorix параша, CoreNodes или BitrixNodes будут получше, а вообще купите VDS’ку на какой-нибудь Aeze, и всё.
+- [@xdearboy](https://github.com/xdearboy/) - Developed scripts. Javascript + Python.
+- [@noxcel](https://github.com/Nocxell) - Gave me an idea, Java.
+- [@vladdis](https://discord.com/invite/k-protect-community-public-925337010779078676) - Rust + Python script to run it.
+- [@pm-kirill](https://github.com/PM-KIRILL) - The Bulba Core-Nodes have reviewed the project.
+- [@IkdanYT](https://github.com/ikdanYT) - Modified jar file, great person.
